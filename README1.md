@@ -14,3 +14,4 @@ Program kalkulator sederhana yang ditulis dalam bahasa Java. Program ini menyedi
 - java.util.Scanner - Untuk input pengguna
 - Control Structures - Loop while, switch case, if-else
 - Exception Handling - try-catch mechanism
+- test

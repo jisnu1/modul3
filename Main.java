@@ -8,7 +8,7 @@ public class Main {
         boolean isRunning = true;
 
         System.out.println("====================================");
-        System.out.println("              KALKULATOR ");
+        System.out.println("              test KALKULATOR ");
         System.out.println("====================================");
 
         while (isRunning) {
